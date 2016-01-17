@@ -1,5 +1,7 @@
 ## README
 
+[![Build Status](https://semaphoreci.com/api/v1/projects/449bbade-78a2-4207-bc3b-9c83f01a203a/663765/badge.svg)](https://semaphoreci.com/justo/railsblog)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
